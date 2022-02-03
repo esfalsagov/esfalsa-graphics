@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="1000"
+   viewBox="0 0 396.875 264.58335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="esfalsa flag better2.svg"
+   inkscape:export-filename="/Users/DMY/Downloads/esfalsa flag better2.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28049232"
+     inkscape:cx="582.35183"
+     inkscape:cy="329.93299"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="241.94228,164.2303"
+       orientation="0,-1"
+       id="guide876" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffcc33;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1443"
+       width="396.875"
+       height="264.58334"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#002664;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1430"
+       width="132.29167"
+       height="264.58334"
+       x="264.58334"
+       y="0" />
+    <rect
+       style="fill:#002664;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="132.29167"
+       height="264.58334"
+       x="0"
+       y="0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#002664;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path835"
+       sodipodi:sides="7"
+       sodipodi:cx="198.4375"
+       sodipodi:cy="134.97925"
+       sodipodi:r1="54.277515"
+       sodipodi:r2="37.702431"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-1.1219973"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 198.4375,80.701733 16.35847,20.308797 26.0774,0.12724 -5.67872,25.4519 16.15951,20.46746 -23.43971,11.4292 -5.92682,25.39527 -23.55013,-11.19992 -23.55013,11.19992 -5.92682,-25.39527 -23.43972,-11.4292 16.15952,-20.46746 -5.67872,-25.4519 26.0774,-0.12724 z"
+       inkscape:transform-center-x="1.255381e-05"
+       inkscape:transform-center-y="-2.6875772" />
+  </g>
+</svg>
